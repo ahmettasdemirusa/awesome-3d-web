@@ -123,6 +123,7 @@ Skills that teach AI coding agents such as Claude Code and Codex to produce bett
 - [Discover three.js](https://discoverthreejs.com/) - A free online book about building professional three.js apps.
 - [Three.js Journey](https://threejs-journey.com/) - A comprehensive video course (paid).
 - [WebGL Fundamentals](https://webglfundamentals.org/) and [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - How WebGL really works, from first principles.
+- [Scivra](https://www.scivra.com/) - Free interactive 3D science labs (physics, chemistry, biology) built for the browser, a hands-on example of educational 3D on the web.
 
 ## Free assets
 
